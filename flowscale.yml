@@ -1,5 +1,0 @@
-version: '2.0'
-models: models.json
-custom_nodes: custom_nodes.json
-user_models_and_nodes: user_models_and_nodes.json
-workflows: []
